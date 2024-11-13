@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: wngud5957@naver.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=[gomets])](https://solved.ac/[gomets]/)​
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=[wngud5957])](https://solved.ac/[wngud5957]/)​
 
 [![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYgomets&show_icons=true&theme=Springa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
