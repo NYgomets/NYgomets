@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomets)](https://solved.ac/gomets/)​
 
-[![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYgomets&show_icons=true&theme=Springa&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My tech blog](https://img.shields.io/badge/My%20tech%20blog-A9BCF5?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://blog.naver.com/gomets_journey)
 
-<a href="https://blog.naver.com/gomets_journey"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://blog.naver.com/gomets_journey"/></a>
+---
+
+
+
+
+### ✨ Contributions
+
+* [spring-framework/SimpleAsyncTaskExecutor](https://github.com/spring-projects/spring-framework/pull/35708)
+* [spring-framework/SortedResourcesFactoryBean](https://github.com/spring-projects/spring-framework/pull/35687)
