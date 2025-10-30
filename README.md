@@ -37,3 +37,14 @@ Here are some ideas to get you started:
 
 * [spring-framework/SimpleAsyncTaskExecutor](https://github.com/spring-projects/spring-framework/pull/35708)
 * [spring-framework/SortedResourcesFactoryBean](https://github.com/spring-projects/spring-framework/pull/35687)
+
+---
+
+
+
+
+### ✨ Certification
+
+* 정보처리기사
+* SQL 개발자(SQLD)
+* TOPCIT (소프트웨어 역량검정) Level 3
