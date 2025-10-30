@@ -16,7 +16,15 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: wngud5957@naver.com
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomets)](https://solved.ac/gomets/)​
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gomets)](https://solved.ac/gomets/)
+
+<br/>
+
+[![Spring Badge](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://spring.io/projects/spring-framework)
+[![Spring Security Badge](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white)](https://spring.io/projects/spring-security)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+  
+
 
 [![My tech blog](https://img.shields.io/badge/My%20tech%20blog-A9BCF5?style=flat-square&logo=GitHub%20Sponsors&logoColor=white)](https://blog.naver.com/gomets_journey)
 
