@@ -36,16 +36,8 @@ Here are some ideas to get you started:
 ### ✨ Contributions
 
 * [spring-framework/SimpleAsyncTaskExecutor](https://github.com/spring-projects/spring-framework/pull/35708)
-* [spring-framework/SortedResourcesFactoryBean](https://github.com/spring-projects/spring-framework/pull/35687)
-
----
-
-
-
-
-### ✨ Issues
-
 * [spring-framework/Transaction-readOnly](https://github.com/spring-projects/spring-framework/issues/35743#event-20661446893)
+* [spring-framework/SortedResourcesFactoryBean](https://github.com/spring-projects/spring-framework/pull/35687)
 
 ---
 
