@@ -43,6 +43,15 @@ Here are some ideas to get you started:
 
 
 
+### ✨ Issues
+
+* [spring-framework/Transaction-readOnly](https://github.com/spring-projects/spring-framework/issues/35743#event-20661446893)
+
+---
+
+
+
+
 ### ✨ Certification
 
 * 정보처리기사
