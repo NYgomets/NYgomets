@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 * [spring-framework/Transaction-readOnly](https://github.com/spring-projects/spring-framework/issues/35743#event-20661446893)
 * [spring-framework/SortedResourcesFactoryBean](https://github.com/spring-projects/spring-framework/pull/35687)
 * [spring-framework/CaffeineCacheManager](https://github.com/spring-projects/spring-framework/pull/35821)
+* [spring-framework/LazyConnectionDataSourceProxy](https://github.com/spring-projects/spring-framework/issues/35980)
 
 ---
 
