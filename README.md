@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 * [spring-framework/SortedResourcesFactoryBean](https://github.com/spring-projects/spring-framework/pull/35687)
 * [spring-framework/CaffeineCacheManager](https://github.com/spring-projects/spring-framework/pull/35821)
 * [spring-framework/LazyConnectionDataSourceProxy](https://github.com/spring-projects/spring-framework/issues/35980)
+* [spring-framework/JdkClientHttpRequestFactory](https://github.com/spring-projects/spring-framework/issues/35997)
 
 ---
 
